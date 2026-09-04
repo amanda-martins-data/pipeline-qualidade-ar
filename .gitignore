@@ -1,0 +1,16 @@
+# dados e warehouse local (gerados em runtime, não versionados)
+data/raw/*.json
+data/warehouse.duckdb
+
+# dbt
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/logs/
+
+# profile real do dbt (contém paths locais / credenciais em cenários com outros adapters)
+profiles.yml
+
+# python
+__pycache__/
+*.pyc
+.venv/
