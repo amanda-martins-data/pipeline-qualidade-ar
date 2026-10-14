@@ -1,5 +1,7 @@
 # Pipeline de Qualidade do Ar
 
+[![CI](https://github.com/amanda-martins-data/pipeline-qualidade-ar/actions/workflows/ci.yml/badge.svg)](https://github.com/amanda-martins-data/pipeline-qualidade-ar/actions/workflows/ci.yml)
+
 Pipeline ELT que extrai dados públicos de qualidade do ar da
 [OpenAQ](https://openaq.org) para cidades brasileiras, carrega em um
 warehouse analítico (DuckDB) e transforma em um modelo dimensional com
