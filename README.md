@@ -7,9 +7,8 @@ Pipeline ELT que extrai dados públicos de qualidade do ar da
 warehouse analítico (DuckDB) e transforma em um modelo dimensional com
 [dbt](https://www.getdbt.com/), pronto para consumo em BI.
 
-Projeto 01 de uma série de 6 documentando minha transição de Analista
-de Dados para Engenharia/Arquitetura de Dados — veja o [perfil
-completo](https://github.com/amanda-martins-data).
+Projeto 01 do meu portfólio de Engenharia e Arquitetura de Dados — veja o
+[perfil completo](https://github.com/amanda-martins-data).
 
 ## Arquitetura
 
